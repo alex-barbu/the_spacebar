@@ -5,4 +5,5 @@ $ cd the_spacebar
 $ php -S 127.0.0.1:8000 -t public
 
 -- use SF web server (console command)
-$ 
+$ composer require server
+$ php bin/consoler server:run
