@@ -1,0 +1,8 @@
+
+$ cd the_spacebar
+
+-- start PHP web server with "public" doc root
+$ php -S 127.0.0.1:8000 -t public
+
+-- use SF web server (console command)
+$ 
